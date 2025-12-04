@@ -4,6 +4,10 @@
 
 ---
 
+![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/javanovatos.png)
+
+---
+
 # SortingVisualizer
 
 ¡Bienvenido a SortingVisualizer! 
