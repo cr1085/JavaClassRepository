@@ -7,6 +7,12 @@
 ![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/javanovatos.png)
 
 ---
+# aportes para novatos en java
+
+[![YouTube](https://img.shields.io/badge/YouTube-Clase_0-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/hCakWDuNlm4?si=86DW5EB6C0rSpvn9)
+
+
+---
 
 # SortingVisualizer
 
