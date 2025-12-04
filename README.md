@@ -53,7 +53,7 @@ Gracias por la comprensión y por apoyar este proyecto. 💛
 
 ---
 
-[![YouTube](https://img.shields.io/badge/YouTube-Clase_9-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/Jac289Jfkhw)
+[![YouTube](https://img.shields.io/badge/YouTube-Clase_BUBBLESORT-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/Jac289Jfkhw)
 
 
 # SortingVisualizer instrucciones para el bubblesort
