@@ -7,10 +7,19 @@
 ![Banner de 3CB Soluciones y Cristian Cuadrado](https://raw.githubusercontent.com/cr1085/cr1085/refs/heads/main/assets/javanovatos.png)
 
 ---
-# aportes para novatos en java
+# Aportes para la comunidad de java
 
 [![YouTube](https://img.shields.io/badge/YouTube-Clase_0-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/hCakWDuNlm4?si=86DW5EB6C0rSpvn9)
 
+[![YouTube](https://img.shields.io/badge/YouTube-Clase_1-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/fdx9v5EtzAM?si=e4aepWyTbuFRGPmv)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Clase_2-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/JgOBtf1ca8U?si=48vFFa1kS9ioBU0G)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Clase_3-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ANmc2_U97uc?si=b5t1Ef4S7TzCQIUm)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Clase_4-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/y6NbQ8TDnhE?si=p5Q8dKe8uiVGI1dm)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Clase_5-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/OduiURrllvM?si=IxUAFO-Fz4sS4lWb)
 
 ---
 
